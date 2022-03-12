@@ -1,0 +1,6 @@
+C:\Users\leoni\source\repos\Cobro\Requerimientos\cobro\bin\Debug\cobro.dll
+C:\Users\leoni\source\repos\Cobro\Requerimientos\cobro\bin\Debug\cobro.pdb
+C:\Users\leoni\source\repos\Cobro\Requerimientos\cobro\obj\Debug\cobro.csproj.AssemblyReference.cache
+C:\Users\leoni\source\repos\Cobro\Requerimientos\cobro\obj\Debug\cobro.csproj.CoreCompileInputs.cache
+C:\Users\leoni\source\repos\Cobro\Requerimientos\cobro\obj\Debug\cobro.dll
+C:\Users\leoni\source\repos\Cobro\Requerimientos\cobro\obj\Debug\cobro.pdb
